@@ -94,9 +94,8 @@ POST http://localhost:8080/api/auth/register-admin
 
 | Repositorio | Enlace |
 |-------------|--------|
-| Backend | https://github.com/tuusuario/ecommerce-backend |
-| Frontend | https://github.com/tuusuario/ecommerce-frontend |
-| Docker | https://github.com/tuusuario/ecommerce-docker |
+| Backend | https://github.com/JordyChamba/E-commerce-Backend |
+| Frontend | https://github.com/JordyChamba/E-commerce-Frontend |
 
 ## 📁 Estructura del proyecto
 
