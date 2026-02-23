@@ -115,4 +115,18 @@ El `docker-compose.yml` incluye las siguientes variables configurables:
 | POSTGRES_USER | postgres |
 | POSTGRES_PASSWORD | root |
 | JWT_SECRET | (incluido en docker-compose) |
-| JWT_EXPIRATION | 86400000 (24 horas) |
+| JWT_EXPIRATION | 86400000 (24 horas) |## 🖼️ Capturas
+
+A continuación se muestran las imágenes del proyecto:
+
+![Captura desde 2026-02-23 11-58-26](images/Captura desde 2026-02-23 11-58-26.png)
+
+![Captura desde 2026-02-23 11-58-59](images/Captura desde 2026-02-23 11-58-59.png)
+
+![Captura desde 2026-02-23 11-59-15](images/Captura desde 2026-02-23 11-59-15.png)
+
+![Captura desde 2026-02-23 11-59-20](images/Captura desde 2026-02-23 11-59-20.png)
+
+![Captura desde 2026-02-23 11-59-26](images/Captura desde 2026-02-23 11-59-26.png)
+
+![Captura desde 2026-02-23 11-59-33](images/Captura desde 2026-02-23 11-59-33.png)
